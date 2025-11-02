@@ -20,7 +20,7 @@ Built with **Python** and **python-telegram-bot**.
 * Submits responses directly to Google Forms.
 * Multi-day attendance with **automatic date increment**.
 * Options to **Edit, Cancel, or Confirm** before submission.
-* Created by: **Pavan Kalyan 🚀**
+* Created by: **Vairagade Pavan Kalyan 🚀**
 
 ---
 
